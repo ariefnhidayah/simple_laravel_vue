@@ -13,3 +13,4 @@
 - Klon repositori
 - buat database dengan nama laravel_dasar
 - migrate database
+- Jalankan serve laravel dan vue js (php artisan serve) & (npm run watch)

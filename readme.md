@@ -7,10 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Simple CRUD with Laravel & Vue JS
+# Simple CRUD with Laravel & Vue JS
+This is a simple CRUD system with [Laravel](https://laravel.com/) and [Vue JS](https://vuejs.org/), and use [MySQL](https://www.mysql.com/) for database system.
 
-## Cara Menggunakan
-- Klon repositori
-- buat database dengan nama laravel_dasar
-- migrate database
-- Jalankan serve laravel dan vue js (php artisan serve) & (npm run watch)
+## Pre-Installation
+Before you install this repo, you must install [Node JS](https://nodejs.org/) and you must install [Laravel](https://laravel.com/) in your computer. And you must create database with name "laravel_dasar" for save data in database. After that you can clone this project with running this script.
+```
+git clone https://github.com/ariefnhidayah/simple_crud_laravel_vue
+```
+
+## Installation
+Before you running this project, you must running script for install package [Node JS](https://nodejs.org/). Running this script.
+```
+npm install
+```
+
+And you must run migrate database in [Laravel](https://laravel.com/). Running this script.
+```
+php artisan migrate
+```
+
+## Run Project
+You can write this command for run this repository
+```
+php artisan serve
+```
+And 
+```
+npm run watch
+```

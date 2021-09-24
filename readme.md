@@ -38,4 +38,4 @@ npm run watch
 ```
 
 ## Tools Used
-![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-254BDD?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-254BDD?style=flat&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql) ![Vue JS](https://img.shields.io/badge/-VueJS-FFFFFF?style=flat&logo=vuedotjs)
